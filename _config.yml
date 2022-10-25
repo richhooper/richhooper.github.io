@@ -13,7 +13,7 @@ baseurl: ''
 lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
+prefer_datetime_locale: eg-gb
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -21,9 +21,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: RicherCode                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Thoughts and observations from a software engineer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://richhooper.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: richhooper             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,8 +40,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Richard Hooper
+  email: richard@richercode.dev             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
